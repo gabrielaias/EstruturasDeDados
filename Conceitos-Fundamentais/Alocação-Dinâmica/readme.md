@@ -38,4 +38,4 @@ A alocação dinâmica de memória é um método de alocação onde o espaço de
 
 A alocação dinâmica é essencial para aplicações que trabalham com grandes volumes de dados ou estruturas cujo tamanho varia significativamente durante a execução. É amplamente utilizada em programação orientada a objetos e em estruturas de dados avançadas.
 
-Veja o arquivo `exemplo_dinamico.py` para um exemplo prático de alocação dinâmica em Python.
+Veja o arquivo [`exemplo_dinamico.py`](./exemplo_dinamico.py) para um exemplo prático de alocação dinâmica em Python.
