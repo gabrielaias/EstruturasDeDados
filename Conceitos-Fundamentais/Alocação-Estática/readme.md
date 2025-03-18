@@ -34,4 +34,4 @@ A alocação estática de memória é um método de alocação onde o espaço de
 
 A alocação estática é ideal para variáveis de tamanho pequeno e conhecido, como inteiros, floats, e pequenos arrays. É também mais eficiente quando o programa não precisa de flexibilidade quanto ao tamanho das estruturas de dados.
 
-Veja o arquivo `exemplo_estatico.py` para um exemplo prático de alocação estática em Python.
+Veja o arquivo [`exemplo_estatico.py`](./exemplo_estatico.py) para um exemplo prático de alocação estática em Python.
