@@ -123,5 +123,5 @@ Para um exemplo prático, consulte [desempenho.py](./Definição-Importância/de
 
 ## 🤝 Participantes:
 
-Gabriel Aías
-Arthur Gomes
+- Gabriel Aías
+- Arthur Gomes
