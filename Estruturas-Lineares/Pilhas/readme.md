@@ -7,4 +7,4 @@ Uma pilha é uma estrutura linear que segue o princípio LIFO (Last In, First Ou
 - Consulta: Verifica o elemento no topo.
 
 ## Exemplo
-No arquivo [`exemplo.py`](./exemplo.py)`, implementamos uma pilha simples.
+No arquivo [`exemplo.py`](./exemplo.py), implementamos uma pilha simples.
