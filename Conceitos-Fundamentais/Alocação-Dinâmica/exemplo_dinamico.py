@@ -1,13 +1,3 @@
-"""
-Exemplo de Alocação Dinâmica de Memória em Python
-
-Neste exemplo, demonstramos como funciona a alocação dinâmica usando:
-1. Listas que crescem dinamicamente
-2. Dicionários
-3. Objetos de classes
-4. Alocação dinâmica de arrays
-"""
-
 class Funcionario:
     def __init__(self, nome, cargo, salario):
         # Atributos de instância são alocados dinamicamente quando o objeto é criado
@@ -158,11 +148,7 @@ def main():
     # Exemplos adicionais
     exemplo_lista_dinamica()
     exemplo_dicionario_dinamico()
-    
-    # Exemplo com entrada do usuário
-    # Descomente a linha abaixo se quiser testar este exemplo
-    # exemplo_array_dinamico()
-    
+
     print("\nObservação importante:")
     print("Em Python, todas as estruturas de dados são alocadas dinamicamente no heap.")
     print("O garbage collector gerencia automaticamente a liberação de memória")
